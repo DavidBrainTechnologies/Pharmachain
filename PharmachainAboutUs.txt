@@ -10,6 +10,7 @@ Pharmachain’s strategic mission is to simplify healthcare delivery, such that dr
 
 Pharmachain helps determine the nearest pharmacy to you that has a particular drug or skincare product, at the same time providing you with:
 
+THE PRICE
 The price of the drug or skincare product.
 
 DISCOUNT ON OFFER
