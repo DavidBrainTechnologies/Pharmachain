@@ -1,0 +1,12 @@
+Home page that let's you interact with us and get stuff done.
+
+Pharmachain is a platform built by passionate Healthcare professionals with a combined 30 years experience in hospital, community and administrative practice, and a team of software engineers, with an intense Enthusiasm to simplify a significant aspect of the Healthcare delivery process in Nigeria
+
+Pharmachain as the name suggests Pharma & Chain(chain of pharmacies) is a platform that links you to reputable pharmacies to buy medicines for or drugs for any condition, as well as skincare products at a discounted price.
+
+Pharmachain helps you identify reputable pharmacies near you that can ensure pharmaceutical care, drugs, and skincare products are at your reach.
+
+Pharmachain’s strategic mission is to simplify healthcare delivery, such that drugs and other skincare products becomes Available, Affordable and Accessible.
+
+Pharmachain helps determine the nearest pharmacy to you that has a particular drug or skincare product, at the same time providing you with:
+
